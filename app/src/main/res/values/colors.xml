@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="common_divider">#e4e4e4</color>
+    <color name="text_dialog_blue">#007bfe</color>
+    <color name="common_bg_white">#ffffff</color>
+    <color name="common_line_grey_dark">#403f45</color>
+
+    <color name="common_line_grey">#a7a7a7</color>
+    <color name="common_line_middle_grey">#505050</color>
+
+</resources>
